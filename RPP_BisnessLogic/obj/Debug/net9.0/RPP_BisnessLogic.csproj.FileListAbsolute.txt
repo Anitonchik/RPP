@@ -1,0 +1,5 @@
+C:\Users\Antonovs\source\repos\RPP\RPP_BisnessLogic\obj\Debug\net9.0\RPP_BisnessLogic.csproj.AssemblyReference.cache
+C:\Users\Antonovs\source\repos\RPP\RPP_BisnessLogic\obj\Debug\net9.0\RPP_BisnessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonovs\source\repos\RPP\RPP_BisnessLogic\obj\Debug\net9.0\RPP_BisnessLogic.AssemblyInfoInputs.cache
+C:\Users\Antonovs\source\repos\RPP\RPP_BisnessLogic\obj\Debug\net9.0\RPP_BisnessLogic.AssemblyInfo.cs
+C:\Users\Antonovs\source\repos\RPP\RPP_BisnessLogic\obj\Debug\net9.0\RPP_BisnessLogic.csproj.CoreCompileInputs.cache
