@@ -1,0 +1,6 @@
+2. скачать пакет Moq
+3. скачать пакеты EntityFrameworkCore, EntityFramework, EntityFrameworkCore.Tools, создать DbContext
+создать миграцию: средства => диспетчер пакетов NuGet => консоль диспетчера пакетов
+выбрать	проект базы данных (где dbContext) прописать Add-Migration ...
+5. https://rsdn.org/article/dotnet/Threading_In_C_Sharp_Part_3.xml#EECAG
+7. если из вне приходит дата .ToUniversalTime
